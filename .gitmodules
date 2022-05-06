@@ -1,3 +1,6 @@
 [submodule "googleCloud___BIG_FILEs"]
 	path = googleCloud___BIG_FILEs
 	url = https://source.developers.google.com/p/named-deck-262610/r/test
+[submodule "test"]
+	path = test
+	url = ssh://hi.cyril@gmail.com@source.developers.google.com:2022/p/named-deck-262610/r/test
